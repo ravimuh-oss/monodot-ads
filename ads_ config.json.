@@ -1,0 +1,21 @@
+{
+  "current_ad": "game_b",
+  "ads": {
+    "game_a": {
+      "image_url": "https:
+//raw.githubusercontent.com
+/ravimuh-oss/monodot-ads/main
+/banners/banner_game_a.png",
+      "target_url": "https://forms
+.gle/QvuGA1L4bfbLjWxu6"
+     },
+     "game_b": {
+       "image_url": "https:
+//forms.gle/QvuGA1L4bfbLjWxu6
+/ravimuh-oss/monodot-ads/main
+/banners/banner_game_b.png",
+      "target_url": "https://forms
+.gle/QvuGA1L4bfbLjWxu6"
+    }
+  }
+}
